@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Pipeline","A marker used to flag protocols as being pipelined RPC."]],"trait":[["ClientProto","A pipelined client protocol."],["ServerProto","A pipelined server protocol."]]});
